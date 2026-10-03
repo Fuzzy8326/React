@@ -1,0 +1,21 @@
+{
+  "todos": [
+    {
+      "id": "53645105-693c-4025-9330-b82001d5cdc2",
+      "text": "Hiking"
+    },
+    {
+      "id": "H1D06ul-rZc",
+      "text": "Swimming"
+    },
+    {
+      "id": "lFy9rjmaals",
+      "text": "Reading"
+    },
+    {
+      "id": "a4xa4EkHSSY",
+      "text": "Shopping"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

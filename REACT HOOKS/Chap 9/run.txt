@@ -1,0 +1,4 @@
+//To test out the application run npm install -g json-server
+//then run ru
+//navigate to the folder where todos.json is, in this case the src folder and run json-server todos.json
+//Then run npm run dev
